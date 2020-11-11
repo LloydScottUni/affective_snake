@@ -6,7 +6,7 @@ using UnityEditor;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
-public class main_loop : MonoBehaviour
+public class MainLoop : MonoBehaviour
 {
     public float speed = 1.0f;
 
