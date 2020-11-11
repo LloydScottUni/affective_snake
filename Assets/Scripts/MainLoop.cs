@@ -8,8 +8,6 @@ using Random = UnityEngine.Random;
 
 public class main_loop : MonoBehaviour
 {
-
-    
     public float speed = 1.0f;
 
     // Start is called before the first frame update
